@@ -1,0 +1,17 @@
+# Site
+title: Welcome to PBS
+subtitle: Peach Blossom Spring
+description: Mardan's personal blog, personal learning history.
+keywords: blog
+author: Mardan M
+
+# Urls
+root: https://www.mardan.wiki
+permalink: /website/
+
+# Directory
+source_dir: source
+public_dir: public
+posts_dir: posts
+static_dir: static
+layout_dir: layouts
